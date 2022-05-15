@@ -28,4 +28,4 @@ These people have push access to the `v3-stable` branch, in addition to all the 
 
 ## Development resources
 
-TODO
+[Definition of the app.yml format](https://runcitadel.github.io/app-yml-spec/)
